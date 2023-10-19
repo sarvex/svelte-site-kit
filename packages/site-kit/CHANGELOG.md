@@ -1,5 +1,11 @@
 # @sveltejs/site-kit changelog
 
+## 6.0.0-next.53
+
+### Patch Changes
+
+- 0a700a2: fix: home link text alignment issue
+
 ## 6.0.0-next.52
 
 ### Minor Changes

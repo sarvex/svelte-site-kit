@@ -37,8 +37,8 @@ importers:
         specifier: ^0.30.3
         version: 0.30.3
       marked:
-        specifier: ^7.0.5
-        version: 7.0.5
+        specifier: ^9.1.4
+        version: 9.1.4
       prettier:
         specifier: ^3.0.3
         version: 3.0.3
@@ -1709,8 +1709,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /marked@7.0.5:
-    resolution: {integrity: sha512-lwNAFTfXgqpt/XvK17a/8wY9/q6fcSPZT1aP6QW0u74VwaJF/Z9KbRcX23sWE4tODM+AolJNcUtErTkgOeFP/Q==}
+  /marked@9.1.4:
+    resolution: {integrity: sha512-Mq83CCaClhXqhf8sLQ57c1unNelHEuFadK36ga+GeXR4FeT/5ssaC5PaCRVqMA74VYorzYRqdAaxxteIanh3Kw==}
     engines: {node: '>= 16'}
     hasBin: true
     dev: true

@@ -22,8 +22,8 @@ importers:
         version: 0.6.0(svelte@4.2.2)
     devDependencies:
       '@sveltejs/kit':
-        specifier: ^1.27.2
-        version: 1.27.2(svelte@4.2.2)(vite@4.4.9)
+        specifier: ^1.27.3
+        version: 1.27.3(svelte@4.2.2)(vite@4.4.9)
       '@sveltejs/package':
         specifier: ^2.2.2
         version: 2.2.2(svelte@4.2.2)(typescript@5.2.2)
@@ -549,8 +549,8 @@ packages:
     resolution: {integrity: sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==}
     dev: true
 
-  /@sveltejs/kit@1.27.2(svelte@4.2.2)(vite@4.4.9):
-    resolution: {integrity: sha512-2w2VbPpK8DI3QCSVa2UNAv5sKNks1LT8GsEdpk41ffOyO2znGx2ZwcRWacsqlvh3d9lncZuDdANvCbTbuKvy3Q==}
+  /@sveltejs/kit@1.27.3(svelte@4.2.2)(vite@4.4.9):
+    resolution: {integrity: sha512-pd7qwX6ww5noA0/FLk45B0aKUeOXWR+pfZsGTrv3dRmj3lTmnki9UTmTdWzHJGrje+BBkGUZHfgGrsSOQQBQpQ==}
     engines: {node: ^16.14 || >=18}
     hasBin: true
     requiresBuild: true

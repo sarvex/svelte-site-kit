@@ -18,8 +18,8 @@ importers:
         specifier: ^1.0.0
         version: 1.0.0
       svelte-local-storage-store:
-        specifier: ^0.6.0
-        version: 0.6.0(svelte@4.2.2)
+        specifier: ^0.6.4
+        version: 0.6.4(svelte@4.2.2)
     devDependencies:
       '@sveltejs/kit':
         specifier: ^1.27.2
@@ -2326,11 +2326,11 @@ packages:
       svelte: 4.2.2
     dev: true
 
-  /svelte-local-storage-store@0.6.0(svelte@4.2.2):
-    resolution: {integrity: sha512-UbCY/yT/YUadU5IX/gZkoRQnA+ebFZHKKQjlJvfWHnBj3CPe9sNn8ndxYz/xy4LUzGjuBLq8+wH5RYK54ba3wA==}
+  /svelte-local-storage-store@0.6.4(svelte@4.2.2):
+    resolution: {integrity: sha512-45WoY2vSGPQM1sIQJ9jTkPPj20hYeqm+af6mUGRFSPP5WglZf36YYoZqwmZZ8Dt/2SU8lem+BTA8/Z/8TkqNLg==}
     engines: {node: '>=0.14'}
     peerDependencies:
-      svelte: ^3.48.0 || ^4.0.0
+      svelte: ^3.48.0 || >4.0.0
     dependencies:
       svelte: 4.2.2
     dev: false

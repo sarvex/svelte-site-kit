@@ -28,7 +28,7 @@
 		"@types/node": "^20.8.9",
 		"flexsearch": "^0.7.31",
 		"magic-string": "^0.30.5",
-		"marked": "^9.1.4",
+		"marked": "^11.0.1",
 		"prettier": "^3.0.3",
 		"shiki-twoslash": "^3.1.2",
 		"svelte": "^4.2.2",

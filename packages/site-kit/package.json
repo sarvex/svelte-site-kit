@@ -23,16 +23,16 @@
 		"svelte-local-storage-store": "^0.6.0"
 	},
 	"devDependencies": {
-		"@sveltejs/kit": "^1.27.2",
-		"@sveltejs/package": "^2.2.2",
-		"@types/node": "^20.8.9",
-		"flexsearch": "^0.7.31",
-		"magic-string": "^0.30.5",
-		"marked": "^9.1.4",
+		"@sveltejs/kit": "1.27.2",
+		"@sveltejs/package": "2.2.2",
+		"@types/node": "20.8.9",
+		"flexsearch": "0.7.31",
+		"magic-string": "0.30.5",
+		"marked": "9.1.4",
 		"prettier": "^3.0.3",
-		"shiki-twoslash": "^3.1.2",
-		"svelte": "^4.2.2",
-		"typescript": "^5.2.2",
+		"shiki-twoslash": "3.1.2",
+		"svelte": "4.2.2",
+		"typescript": "5.2.2",
 		"vite": "^4.4.9"
 	},
 	"publishConfig": {
